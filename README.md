@@ -13,4 +13,6 @@
 
 ![GH STATS](https://raw.githubusercontent.com/GabriellaDiasA/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![GH STATS](https://raw.githubusercontent.com/GabriellaDiasA/github-stats/master/generated/overview.svg#gh-light-mode-only)
+ ![GH STATS](https://raw.githubusercontent.com/GabriellaDiasA/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GH STATS](https://raw.githubusercontent.com/GabriellaDiasA/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </div>
