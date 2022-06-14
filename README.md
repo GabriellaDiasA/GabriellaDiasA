@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**GabriellaDiasA/GabriellaDiasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>GitHub Stats</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: getting gud at elixir
+- 🌱 I’m currently learning: elixir
+- 💬 Ask me about: music
+- 📫 How to reach me: carrier pigeon
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ilovemywife
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" >
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=petersilvahs&hide=issues&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+</div>
