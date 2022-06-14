@@ -11,5 +11,6 @@
 
 <div align="center" >
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=petersilvahs&hide=issues&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+![GH STATS](https://raw.githubusercontent.com/GabriellaDiasA/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GH STATS](https://raw.githubusercontent.com/GabriellaDiasA/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </div>
