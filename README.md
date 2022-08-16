@@ -2,10 +2,10 @@
 
 <h3>GitHub Stats</h3>
 
-- 🔭 I’m currently working on: getting gud at elixir
-- 🌱 I’m currently learning: elixir
-- 💬 Ask me about: music
-- 📫 How to reach me: carrier pigeon
+- 🔭 I’m currently working on: Phoenix LiveView!!!!!
+- 🌱 I’m currently learning: elixir as a whole
+- 💬 Ask me about: music, beer and numbers
+- 📫 How to reach me: carrier pigeon and/or dark ritual
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ilovemywife
 
