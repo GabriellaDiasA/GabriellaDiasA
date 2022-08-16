@@ -2,7 +2,7 @@
 
 <h3>GitHub Stats</h3>
 
-- 🔭 I’m currently working on: Phoenix LiveView!!!!!
+- 🔭 I’m currently working on: Understanding Phoenix LiveView!!!!!
 - 🌱 I’m currently learning: elixir as a whole
 - 💬 Ask me about: music, beer and numbers
 - 📫 How to reach me: carrier pigeon and/or dark ritual
